@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'telegram-bot-ruby', '~> 1.0'
+gem 'mysql2'
+gem 'dotenv'
+gem 'csv'
