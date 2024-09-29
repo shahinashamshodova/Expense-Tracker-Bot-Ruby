@@ -1,6 +1,6 @@
 # Expense tracker bot for Telegram
 
-The bot was built using *Ruby Telegram SDK* and uses a standalone *MySQL* server as the database. The environment is managed using dotenv. 
+The bot was built using **Ruby Telegram SDK** and uses a standalone **MySQL** server as the database. The environment is managed using dotenv. 
 
 Here are the available commands:
 
